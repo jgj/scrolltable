@@ -2,6 +2,7 @@
   "name": "scrolltable",
   "version": "1.0.0",
   "description": "Simple scrolling tables with sticky headers for modern browsers",
+  "homepage": "https://github.com/jgj/scrolltable",
   "main": "scrolltable.js",
   "scripts": {
     "test": "gulp test"
