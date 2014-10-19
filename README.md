@@ -1,7 +1,7 @@
 # ScrollTable
 
 A simple script to make tables scroll with sticky headers. No dependencies. Works in modern browsers (IE10+).
-[ScrollTable in action](http://jgj.github.io/ScrollTable)
+[ScrollTable in action](http://jgj.github.io/scrolltable)
 
 ### How to use it
 ```js
