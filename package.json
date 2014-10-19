@@ -1,0 +1,28 @@
+{
+  "name": "scrolltable",
+  "version": "1.0.0",
+  "description": "Simple scrolling tables with sticky headers for modern browsers",
+  "main": "scrolltable.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "keywords": [
+    "html",
+    "table",
+    "tables",
+    "css",
+    "css3",
+    "scrolling",
+    "sticky",
+    "header",
+    "modern"
+  ],
+  "author": "Jason Jones https://github.com/jgj",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.6.2",
+    "gulp-cssmin": "^0.1.4",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^0.2.1"
+  }
+}
