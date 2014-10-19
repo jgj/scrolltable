@@ -1,0 +1,7 @@
+/*! 
+ * scrolltable.css - simple, dependency-free sticky-header table scrolling
+ * version : 1.0.0
+ * authors : Jason Jones
+ * license : MIT
+ * https://github.com/jgj/scrolltable 
+*/.scrolltable{border-spacing:0;border-collapse:collapse;width:100%}.scrolltable tbody,.scrolltable thead{display:block}.scrolltable tbody{overflow-y:auto;overflow-x:hidden}.scrolltable td,.scrolltable th{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}.scrolltable.st-reset tbody,.scrolltable.st-reset thead{display:table-row-group;overflow:auto}.st-sb-fix,.st-sb-fix>*{overflow:hidden!important}
