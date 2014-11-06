@@ -16,6 +16,6 @@ gulp.task('styles', function() {
         .pipe(cssmin({ keepSpecialComments: 1 }))
         .pipe(rename('scrolltable.min.css'))
         .pipe(gulp.dest('./dist'));
-})
+});
 
 gulp.task('default', ['scripts', 'styles']);

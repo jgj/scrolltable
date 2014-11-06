@@ -7,7 +7,7 @@
 (function(factory) {
     "use strict";
 
-    if(typeof define === "fucntion" && define.amd) {
+    if(typeof define === "function" && define.amd) {
         define(factory);
     } else if(typeof module !== "undefined" && typeof module.exports !== "undefined") {
         module.exports = factory();
@@ -53,7 +53,7 @@
 
         this.widths = widths;
         this.enable();
-    };
+    }
 
     ScrollTable.prototype.enable = function() {
         sbfix();
