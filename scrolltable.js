@@ -92,7 +92,7 @@
     };
 
     function initWidths(cells, widths) {
-        if(Array.isArray(widths) && widths.length === cells.length) return options.widths;
+        if(Array.isArray(widths) && widths.length === cells.length) return widths;
         return arr.map.call(cells, getCellWidth);
     }
 

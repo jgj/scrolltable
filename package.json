@@ -1,6 +1,6 @@
 {
   "name": "scrolltable",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple scrolling tables with sticky headers for modern browsers",
   "homepage": "https://github.com/jgj/scrolltable",
   "main": "scrolltable.js",
